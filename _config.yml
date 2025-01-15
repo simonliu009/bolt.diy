@@ -1,0 +1,4 @@
+install:
+  command: "npm install -g pnpm && pnpm install"
+build:
+  command: "pnpm run build"
